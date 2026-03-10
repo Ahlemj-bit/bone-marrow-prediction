@@ -1,0 +1,6 @@
+Comment créer les 4 fichiers
+Clic droit directement sur BONE-MARROW-PREDICTION (tout en haut) → New File
+Fichier 9 : tape requirements.txt → Entrée → colle le contenu → Ctrl+S
+Fichier 10 : Clic droit sur BONE-MARROW-PREDICTION → New File → tape Dockerfile → Entrée → colle → Ctrl+S
+Fichier 11 : Clic droit → New File → tape .flake8 → Entrée → colle → Ctrl+S
+Fichier 12 : Clic droit → New File → tape .gitignore → Entrée → colle → Ctrl+S

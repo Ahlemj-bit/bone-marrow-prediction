@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+models/*.pkl
+models/*.png
+models/*.csv
+data/
+.pytest_cache/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
